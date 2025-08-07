@@ -6,7 +6,11 @@
 
 ## Tecnologias
 
-<div> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> </div>
+<div> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></div>
+<div> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></div>
+<br>
+
+          
 
 Estudante de Ciência da computação, focado em java e obstinado me evoluir como desenvolvedor!
 
