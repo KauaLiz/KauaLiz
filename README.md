@@ -14,5 +14,5 @@
 
           
 
-Estudante de Ciência da computação, focado em java e obstinado a evoluir como desenvolvedor!
+Estudante de Ciências da computação.
 
